@@ -3,7 +3,9 @@
 ## What can i do
 
 **Akecheta** is a platform to auto-deploy container applications in **kubernetes-cluster**
-中文介绍：http://boldman.top/post/li-yong-k8s-pyclientbian-xie-rong-qi-zi-dong-hua-b/
+
+[中文介绍](http://boldman.top/post/li-yong-k8s-pyclientbian-xie-rong-qi-zi-dong-hua-b/)
+
 ## The basics
 Use **Kubernetes** python client to create Resouces(Namespace、Secret、Configmap、Volume、Deployment or ohters controler、Service、Ingress).
 
